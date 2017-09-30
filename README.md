@@ -1,7 +1,7 @@
 
 
-![Kanyao Han](https://github.com/khan1792/Kanyao-File/blob/master/photo13.jpg)
-Email: <khan17@uchicago.edu>
+![Kanyao Han](https://github.com/khan1792/Kanyao-File/blob/master/photo13.jpg "Kanyao Han")
+- Email: <khan17@uchicago.edu>
 
 
 
