@@ -12,7 +12,7 @@ In recent years, especially after Xi Jinping came to power, two phenomena relate
 
 ### Research Design
 #### Data Source
-I plan at first to scrape observational data from [*Douban(豆瓣网)*](www.douban.com), a Chinese social network site. This SNS is the best choice for my research question for the following reasons.  
+I plan at first to scrape observational data from [*Douban(豆瓣网)*](https://www.douban.com/), a Chinese social network site. This SNS is the best choice for my research question for the following reasons.  
 
 - First, its users are predominantly well-educated, including numerous college and gradate school students, academic faculty, professional staff, and so forth.    
 - Second, it is not only a SNS, but also the most important rating and reviewing website for Chinese and foreign books, films, TV shows, musics. In other words, it is equal to the combination of *IMBd*, *Amazon(book)/Goodreads* and well-educated version of *Facebook*. Besides, since only registered users can rate and review books, musics and videos, it is easy to obtain the data related to their reading and watching records. Through these records, we can also indirectly evaluate people's sociocultural characteristics and even ideology.  
